@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://12345:12345@cluster0-fgryv.mongodb.net/contacts?retryWrites=true&w=majority",
+    "jwtsecret":"securejwt"
+}
+// mongodb://localhost:27017/register
+// mongodb+srv://12345:12345@cluster0-fgryv.mongodb.net/contacts?retryWrites=true&w=majority

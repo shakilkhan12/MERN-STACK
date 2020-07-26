@@ -1,0 +1,9 @@
+{
+    "deno.enable": false,
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact"
+        }
+}
